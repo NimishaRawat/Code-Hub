@@ -1,0 +1,12 @@
+div{
+    margin: 0;
+    padding: 0;
+    height: 700vh;
+    background-image: url('https://bernardmarr.com/wp-content/uploads/2022/04/The-10-Biggest-Technology-Trends-That-Will-Transform-The-Next-Decade.jpg');
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    
+}

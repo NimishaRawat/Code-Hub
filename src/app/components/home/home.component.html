@@ -1,0 +1,13 @@
+<div>
+    <ul>
+        @if(items.length == 0){
+        <li>No data - Create your first bin after Signup</li>
+        }
+        @for (item of items; track item.id) {
+        <li>
+            <a [routerLink]="['/snippet', item.id]">{{ item.title }}</a>
+            <!-- <a class='video'href="https://www.youtube.com/channel/UCfC5jO2IgrJgbqhtOgGAhJg">Video explanation</a> -->
+        </li>
+        }
+    </ul>
+</div>
