@@ -17,5 +17,6 @@ Organize your code projects seamlessly within CodeBin. You can create folders, r
 5. Save and Share
 One of the standout features of CodeBin is its ability to save code projects securely. You can save your work with a click of a button, allowing you to revisit and edit your projects at any time.
 
-Try it out!
+# Try it out!
+## Make sure to use abc@abc.com for email and 123456 for password.
 Experience the power of CodeBin by visiting https://code-bin-angular.web.app/ . Unleash your creativity and productivity today!
